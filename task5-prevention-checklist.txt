@@ -1,0 +1,9 @@
+Stay Safe Online: A Guide for Students
+1.The UPI Golden Rule: Never enter your UPI PIN to receive money. Users must enter their PIN to send money or check their account balance according to system requirements.
+2.Verify "Collect" Requests: Users must check both the name of the requester and the complete amount listed on a UPI "collect request" before they proceed with any authorization process.
+3.Enable Two-Factor Authentication (2FA): Users should enable 2FA on their social media and academic accounts because it creates additional security protection which goes beyond their standard password.
+4.People should avoid accessing their bank accounts and payment applications while using public Wi-Fi networks which are available in cafes and stations.
+5.Users should verify that a website starts with "https://" and displays a padlock icon before they enter their personal information and login credentials.
+6.Users should protect their smartphones and all financial applications through strong unique passwords or biometric authentication methods which include fingerprint and FaceID.
+7.People should not open unexpected links which they receive through SMS emails or WhatsApp messages that say they have won a prize or their account has been suspended.
+8.Users should perform ongoing assessments of the permissions which installed applications on their phones currently hold and they should turn off access to their contacts and location and SMS features for applications that do not require these permissions.
