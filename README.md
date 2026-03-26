@@ -9,6 +9,7 @@ Portfolio:- https://github.com/shrashti25bce10154-prog/digital_literacy/blob/mai
 Task 3: Coding & Collaboration Platforms Demonstration of technical problem-solving via HackerRank and the creation of a digital data collection tool for student awareness. 
 Platforms :- https://github.com/shrashti25bce10154-prog/digital_literacy/blob/main/task%203%20platforms.pdf
 Link to my Digital Literacy Awareness Quiz (Google Form):- https://forms.gle/G4pDs3Qu2vvJVy5E6
+linkedin profile link:- https://www.linkedin.com/in/shrashti-bansal-969a42376?utm_source=share_via&utm_content=profile&utm_medium=member_android 
 
 Task 4: Professional Email & Etiquette A guide to professional digital communication, featuring formal email drafts for academic and corporate environments and a social media responsibility checklist.
 Social media checklist:- https://github.com/shrashti25bce10154-prog/digital_literacy/blob/main/social-media-checklist.txt
